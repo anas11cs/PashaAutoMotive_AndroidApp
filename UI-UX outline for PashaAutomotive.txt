@@ -1,0 +1,1 @@
+User Research-> User Flow-> Prototyping[High Level+Interactive](Figma)->Verification -> Usability Testing
